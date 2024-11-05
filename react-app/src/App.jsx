@@ -16,9 +16,7 @@ function App() {
       }}
       >
 
-      <h1> welcome tomy little page</h1>
-      <h2> Espero poder usar bien esto algun día</h2>
-      <h2> Amo mucho a mi amorcito</h2>
+      <h1> Iniciar sesion</h1>
       
       <section className="form-register">
         <h4>Formulario Registro</h4>
